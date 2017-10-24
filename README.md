@@ -1,2 +1,0 @@
-# Initi-git
-første git
